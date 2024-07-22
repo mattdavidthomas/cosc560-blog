@@ -8,7 +8,8 @@
 </p>
 
 ## COSC560 Assignment 1 Reflection
-<b>GitHub Repo URL:</b><a hr="https://github.com/mattdavidthomas/cosc560-blog">Click here to visit my repo</a>
+<b>GitHub Repo URL:</b><a href="https://github.com/mattdavidthomas/cosc560-blog">Click here to visit my repo</a>
+
 During the initial development of the blog Laravel project, I sometimes felt like my understanding of each step was relatively surface-level. As I develop this project further, I would like to develop a solid understanding of Laravel, PHP, and HTML including a better understanding of how Models, Controllers and Views interact, and how to create routes. Initially, I had some issues starting the project in my Linux environment due to dependency issues - luckily, I was able so solve these issues with most of the problem caused by Laravel needed a different PHP version to the one that my system was using as default. After updated this to reference the correct version, I was able to compile my code and successfully view it in a broswer after running `php artisan serve`. 
 
 As I continue building this project, I will be more attentive to the Laravel/PHP technical documentation in an effort to grow my understanding beyond the surface level, and be comfortable writing code without such a heavy reliance on VSCode extensions.
